@@ -1,7 +1,7 @@
 # elm-http-workbench
-elm-http-workbench is a small app that helps you build http request without needing a full blown app.
+elm-http-workbench is a small app that helps you build http request without the need of a full blown app.
 
-## To run the sample app
+## To run the example app
 
 ```
 git clone git@github.com:martinos/elm-http-workbench.git
