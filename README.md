@@ -7,9 +7,9 @@ elm-http-workbench is a small app that helps you build http request without need
 git clone git@github.com:martinos/elm-http-workbench.git
 cd elm-http-workbench
 elm package install
+
 elm reactor
 ```
 
-click on example.elm
+click on [example.elm](http://localhost:8000/example.elm)
 
-   
